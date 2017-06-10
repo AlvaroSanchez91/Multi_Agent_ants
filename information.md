@@ -30,7 +30,7 @@
 
  Angle: indica el angulo maximo con el que gira cuando esta moviendose aleatoriamente.
 
- Covardia: cuando la vida de un agente esta por debajo de esta, su ataque se ve reducido a la mitad, y mantiene un movimiento constante hasta que deja de ver enemigos.
+ Cobardia: cuando la vida de un agente esta por debajo de esta, su ataque se ve reducido a la mitad, y mantiene un movimiento constante hasta que deja de ver enemigos.
 
 
 
